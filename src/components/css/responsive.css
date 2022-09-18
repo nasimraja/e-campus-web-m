@@ -1,0 +1,479 @@
+ 
+ 
+@media(max-width: 1166px){
+    .main-bg{
+        width: 100%;
+    }
+ 
+    .scholarship-list > a {
+        border-radius: 8px;
+        padding: 10px;
+        width: 210px;
+    }
+    .scholarship-list > input {
+        width: 155px;
+    }
+    .scholarship-list {
+        padding: 26px 0px 15px 15px;
+    }
+    .course-box2 {
+        padding: 15px 15px;
+    }
+    .course-box {
+        background-color: #818DCB;
+        padding: 10px 15px;
+    }
+    .view-edit > a {
+        padding: 9px 45px;
+    }
+    .paypal > a {
+        padding: 8px 45px;
+    }
+     
+}
+@media(max-width: 992px){
+    .heading-biodata > h3{
+        font-size: 16px;
+    }
+    .course-session-dates > h3{
+        font-size: 15px;
+    }
+    .amout-c > p{
+        font-size: 15px;
+    }
+    .presenter-bio > h3{
+        font-size: 15px;
+    }
+    .presenter-bio > p{
+        font-size: 14px;
+    }
+    .wrp-login-btn-header {
+        text-align: center;
+        margin-top: 0;
+    }
+    .login-btn-header{
+        display: block;
+        margin-top: 20px;
+    }
+    .head-bg{
+        padding: 0px
+    }
+    .input-list > p{
+        margin-bottom: 5px;
+    }
+    .input-list > input{
+        margin-top: 0px;
+    }
+   
+    .cir-bnr-right > h1 {
+        font-size: 20px;
+    }
+    .cir-bnr-right > p {
+        font-size: 14px;
+    }
+    .reviewo-heading > h1 {
+        margin-top: 20px;
+    }
+    .payment-box {
+        margin-left: 20px;
+    }
+    .scholarship-list {
+        padding: 15px 0px 15px 20px;
+    }
+    .p-option-right {
+        text-align: left;
+    }
+    .p-option-left {
+        padding-left: 0px;
+    }
+    .p-option-sec {
+        padding-left: 20px;
+    }
+    .subtotal > input {
+        width: 97%;
+    }
+    .reviewo-heading > h1 {
+        font-size: 20px;
+    }
+    .register-wrap {
+        display: inherit;
+    }
+    .tab {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+    }
+    .tab-line {
+        width: 100%;
+        height: 1px;
+        margin: 20px 0px;
+    }
+    .tab > li {
+        width: 50%;
+        margin-top: 20px;
+    }
+    .tab > li > a {
+        width: 330px;
+    }
+    .tab > li:first-child {
+        margin-top: 20px;
+    }
+      
+    .tab-c-h-line {
+        display: none;
+    }
+    .lg-cont > h1 {
+        font-size: 20px;
+    }
+    .register-b-head > h1 {
+        font-size: 20px;
+    }
+    .winter-heading > h3 {
+        font-size: 16px;
+        text-align: left;
+    }
+    .login-but > a {
+        font-size: 16px;
+    }
+    .tab-c-h {
+        display: flex;
+        justify-content: center;
+    }
+    .tab-c-h > h6 {
+        margin-left: 0px;
+    }
+    .input-list {
+        width: 100%;
+        margin-top: 15px;
+    }
+    .form > li{
+        display: inherit;
+        margin-top: 15px;
+    }
+    .input-list2{
+        width: 100%;
+        margin-top: 15px;
+    }
+    .input-list1 > p{
+        margin-bottom: 5px;
+    }
+    .input-list1 {
+        width: 100%;
+        margin-top: 15px;
+    }
+    .input-list4 {
+        width: 100%! important;
+    }
+    .list5{
+        margin-top: 15px;
+    }
+    .list5 > p{
+        margin-bottom: 5px;
+    }
+    .fixed-box{
+        position: inherit;
+    }
+}
+@media(max-width: 767px){
+    
+    .main-bg{
+        padding: 0px;
+    }
+    .neoro-p{
+        font-size: 14px;
+    }
+    .form-wrap{
+        padding: 30px 15px;
+    }
+    .coupon-wrp{
+        display: inherit;
+    }
+    .cir-bnr-right > p{
+        font-size: 13px;
+    }
+    .cir-bnr-right > p > br{
+        display: none;
+    }
+    .coupon-child1 {
+        width: 100%;
+        margin-top: 15px;
+    }
+    .discount-btn > p{
+        margin: 0px;
+    }
+    .coupon-right > label{
+        margin-left: 0px;
+    }
+    .coupon-child1 > input{
+        width: 80%;
+    }
+    .coupon-right{
+        text-align: left;
+    }
+    .wrp-welcome-page {
+        padding: 0px 0px;
+    }
+    .welcome-head > h4{
+        font-size: 18px;
+    }
+    .welcome-head > h3{
+        font-size: 32px;
+    }
+    .welcome-head > p{
+        font-size: 15px;
+        margin-top: 10px;
+    }
+    .registration-from > p{
+        font-size: 14px;
+    }
+    .registration-from > h3 {
+        font-size: 18px;
+        margin-top: 40px;
+        text-align: center;
+    }
+    .group-head > h3 {
+        font-size: 20px;
+        margin-bottom: 30px;
+    }
+    .group-head > h4,.register-people > p{
+        font-size: 15px;
+        text-align: center;
+    }
+    .register-people {
+        margin-top: 20px;
+    }
+    .group-head > p{
+        font-size: 14px;
+        text-align: center;
+    }
+    .professional-content > p{
+        text-align: center;
+        font-size: 14px;
+    }
+    .professional-content > h3{
+        font-size: 18px;
+        text-align: center;
+    }
+    .r-but2 > a{
+        font-size: 16px;
+    }
+    .registration-from{
+        margin-top: 35px;
+    }
+    .form > li {
+        display: inherit;
+    }
+    .cir-bnr-right > h1 {
+        font-size: 16px;
+    }
+    .top-bnr {
+        display: inherit;
+        text-align: center;
+    }
+    .cir-logo > a > img {
+        width: 60px;
+    }
+    .cir-bnr-right {
+        margin-left: 0px;
+        margin-top: 15px;
+    }
+    .login-but > a {
+        padding: 8px 24px;
+        font-size: 14px;
+    }
+    .lg-box {
+        justify-content: center;
+    }
+  
+  
+    .form > li {
+        margin-top: 15px;
+    }
+    .input-list{
+        margin-top: 15px;
+    }
+    .input-list1{
+        margin-top: 15px;
+    }
+    .back-to-r-but > a {
+        font-size: 14px;
+    }
+    .p-butn {
+        display: inherit;
+    }
+    .r-top-head > h3 {
+        font-size: 14px;
+    }
+    .reviewo-heading > h1 {
+        font-size: 16px;
+        text-align: center;
+    }
+    .course-box2 {
+        text-align: center;
+    }
+    .course-box {
+        text-align: center;
+    }
+    .scholarship-list > input {
+        width: 100%;
+        text-align: center;
+    }
+    .scholarship-list > a {
+        padding: 10px;
+        width: 100%;
+        margin-left: 0px;
+    }
+    .scholarship-list {
+        padding: 15px;
+    }
+    .payment-box {
+        margin-left: 15px;
+        text-align: center;
+        width: 91%;
+        height: auto;
+    }
+    .payment-box > p {
+        padding: 10px;
+        font-size: 13px;
+    }
+    .p-option-left > h1 {
+        font-size: 16px;
+    }
+    .cart-h > h1 {
+        font-size: 16px;
+        margin-top: 15px;
+    }
+    .subtotal > input {
+        width: 95%;
+    }
+    .view-edit > a {
+        padding: 9px 0px;
+        text-align: center;
+        margin-left: 0px;
+        width: 94%;
+    }
+    .paypal > a {
+        padding: 8px 0px;
+        text-align: center;
+        margin-left: 0px;
+        width: 94%;
+        margin-top: 15px;
+    }
+    .regist-ul {
+        justify-content: left;
+    }
+    .pc-h-r {
+        width: 35%;
+        text-align: right;
+        margin-top: 15px;
+    }
+    .tab > li {
+        width: 100%;
+        margin-left: 0px;
+    }
+    .tab {
+        display: inherit;
+        flex-wrap: nowrap;
+        justify-content: center;
+    }
+    .tab > li > a {
+        width: 100%;
+    }
+    .lg-cont > h1 {
+        font-size: 15px;
+        margin: 0px;
+    }
+    .lg-box {
+        display: inherit;
+        text-align: center;
+    }
+    .login-but > a {
+        display: inline-block;
+    }
+    .login-but {
+        margin-top: 15px;
+    }
+    .register-b-head > h1 {
+        font-size: 15px;
+    }
+    .winter-heading > h3 {
+        font-size: 14px;
+    }
+    .tab > li > a{
+        font-size: 14px;
+    }
+    .tab-c-h > h6 {
+        font-size: 15px;
+    }
+    .winter-but > a {
+        margin: 15px 0px 0px 0px;
+        font-size: 14px;
+    }
+    .summer-but > a {
+        margin: 15px 0px 0px 15px;
+        font-size: 14px;
+    }
+    .win-sum-but-wrap {
+        justify-content: center;
+    }
+    .pc-cont {
+        display: flex;
+        text-align: center;
+        padding: 0px;
+        margin-top: 20px;
+        flex-wrap: wrap;
+        padding: 0px 15px;
+    }
+    .pc-h-l{
+        width: 100%;
+    }
+    .pc-h-l {
+        width: 100%;
+    }
+    .pc-h-l > h1 {
+        font-size: 14px;
+        text-align: left;
+    }
+    .pc-h-r > h3 {
+        font-size: 18px;
+    }
+    .regiscont-main-wrap {
+        display: inherit;
+        text-align: center;
+        margin: 0px 20px;
+        padding-top: 0px;
+    }
+    .regist-ul > li {
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+    .regist-list{
+        width: 60%;
+    }
+    .regist-ul > li > a {
+        border-radius: 8px;
+    }
+    .register-but > a {
+        font-size: 14px;
+        border-radius: 8px;
+        margin-top: 15px;
+    }
+    .btns-b-ad-wrp > a{
+        font-size: 13px;
+    }
+    .amout-wrp{
+        display: inherit;
+    }
+    .mrt-mobile{
+        margin-top: 20px;
+    }
+    .amout-c > p {
+        font-size: 13px;
+    }
+}
+
+ 
+
+
+
+
